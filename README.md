@@ -1,10 +1,11 @@
-![image](https://i.pinimg.com/736x/f6/79/c9/f679c907b0fb910f09f0c97c8ecb49ab.jpg)
-
+<p align="center">
+  <img src="https://i.pinimg.com/736x/f6/79/c9/f679c907b0fb910f09f0c97c8ecb49ab.jpg" alt="UMass" width="500"/>
+</p>
 
 ## Heyyy there👋 I am ... 
 
 * An UnderGrad student at ZooMass Amherst
-* Double Majoring in Computatial Mathematics and Stat & DataScience
+* Double Majoring in Computational Mathematics and Stat & DataScience
 * Minor in Economics 
 * Even though I’ve only been in university for two years, I’m already in my final semester (took a shit ton of extra credits) — *hashtag subtle flex*.
 
