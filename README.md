@@ -1,7 +1,10 @@
-<h2 align="center">Hi, I'm Manas Mehra!</h1>
+<h1 align="center">Hi, I'm Manas Mehra!</h1>
+
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=5000&color=b424bf&width=700&lines=Data+Scientist;AI/ML+Engineer;Problem+Solver;Innovator">
+<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=50&color=F09952&width=700&lines=Data+Scientist;Applied+Machine+Learning;Statistical+Modeling&repeat=true&v=1" />
+
 </p>
+
 
 <p align="left" style="margin: 4px 0;">
   <a href="https://www.linkedin.com/in/manasmehra/">
@@ -14,22 +17,22 @@
 </p>
 
 
-<img align="right" width="300" src="https://i.pinimg.com/736x/f9/72/47/f9724751d33fc41220d3f85c85f8a98b.jpg">
+<img align="right" width="300" src="https://i.pinimg.com/736x/b0/4b/c5/b04bc59d06ace7fbc491b32fca445122.jpg">
 
 ---
 
 ###  A little more about me…
 
 
-I’m a double major in **Statistics & Data Science** and **Computational Mathematics** at **UMass Amherst**, focused on building practical systems in **machine learning, data analysis, and applied software engineering**.
+I’m a double major in Statistics & Data Science and Computational Mathematics at UMass Amherst, focused on building practical systems in machine learning, data analysis, and applied software engineering.
 
-I’ve worked on end-to-end data science and ML projects, including publication-grade statistical modeling of **1,200+ NCAA Division I football games**, deploying a **breast cancer recurrence prediction app**, and implementing **reinforcement learning algorithms from scratch**. I care about clean data pipelines, rigorous modeling, and reproducible results.
+I’ve worked on end-to-end data science and ML projects, including publication-grade statistical modeling of ***1,200+ NCAA Division I football games***, deploying a ***breast cancer recurrence prediction app***, and implementing ***reinforcement learning algorithms from scratch***. I care about clean data pipelines, rigorous modeling, and reproducible results.
 
-On campus, I’m one of **25 selected Peer Mentors**, supporting hundreds of first-year students through academic mentoring and community programs.
+On campus, I’m one of ***25 selected Peer Mentors***, supporting hundreds of first-year students through academic mentoring and community programs.
 
-Currently, I’m deepening my skills in **ML systems, statistical modeling, and data-driven applications** while preparing for roles in **AI, data science, and quantitative tech**.
+Currently, I’m deepening my skills in ML systems, statistical modeling, and data-driven applications while preparing for roles in AI, data science, and quantitative tech.
 
-Outside of tech, I follow Basketball *(Celtics all the way ☘️)*, love Chess ♟️, and solve linkedin puzzles 🧩 on the daily.
+Outside of tech, I follow Basketball *(Celtics all the way ☘️)*, love Chess ♟️, and solve linkedin puzzles 🧩 on the daily. I geek out on anime sometimes.
 
 ---
 
