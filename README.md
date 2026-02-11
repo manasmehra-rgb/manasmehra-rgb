@@ -35,6 +35,7 @@ Currently, I’m deepening my skills in ML systems, statistical modeling, and da
 Outside of tech, I follow Basketball *(Celtics all the way ☘️)*, love Chess ♟️, and solve linkedin puzzles 🧩 on the daily. I geek out on anime sometimes.
 
 ---
+#### Languages
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" />
@@ -51,6 +52,7 @@ Outside of tech, I follow Basketball *(Celtics all the way ☘️)*, love Chess 
 </p>
 
 ---
+#### Frameworks & Data
 
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MYSQL-4E79A7?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
@@ -68,7 +70,7 @@ Outside of tech, I follow Basketball *(Celtics all the way ☘️)*, love Chess 
 </p>
 
 ---
-
+#### Tools & Platforms
 <p>
   <img alt="Visual Studio" src="https://img.shields.io/badge/VISUAL%20STUDIO-1976D2?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF" />
   <img alt="Google Colab" src="https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF" />
