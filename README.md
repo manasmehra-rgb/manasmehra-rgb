@@ -32,7 +32,7 @@ On campus, I’m one of ***25 selected Peer Mentors***, supporting hundreds of f
 
 Currently, I’m deepening my skills in ML systems, statistical modeling, and data-driven applications while preparing for roles in AI, data science, and quantitative tech.
 
-Outside of tech, I follow Basketball *(Celtics all the way ☘️)*, love Chess ♟️, and solve linkedin puzzles 🧩 on the daily. I geek out on anime sometimes.
+Outside of tech, I follow Basketball *(Celtics all the way ☘️)*, love Chess ♟️, and solve linkedin puzzles 🧩. I geek out on anime sometimes.
 
 ---
 #### Languages
